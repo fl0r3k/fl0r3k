@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fl0r3k
 - 👀 I’m interested in data related techonogies and overal IT
-- 🌱 I’m currently learning Apache Kafka ^^
+- 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on nothing special
 - 📫 How to reach me -> @
 
